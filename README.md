@@ -1,4 +1,4 @@
-# 📊 Projeto 2 – Análise de Churn de Clientes
+# 📊 Análise de Churn de Clientes
 
 ## 📌 Visão Geral
 
@@ -93,3 +93,4 @@ Projeto desenvolvido por **Edison Bitencourt de Almeida**
 Cientista de Dados em formação, com foco em análise estratégica e soluções orientadas a negócio.
 
 📬 Em caso de interesse ou dúvidas, sinta-se à vontade para entrar em contato.
+
