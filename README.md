@@ -68,7 +68,7 @@ projeto_analise_churn/
 
 ## 🌐 Deploy do Projeto
 
-- 🔗 **Landing Page:** https://projeto-analise-churn.vercel.app
+- 🔗 **Landing Page:** https://portfolio-ds-two-pearl.vercel.app/projetos/analise-churn/index.html
 - 📄 **Relatório em PDF:** Disponível para download diretamente na landing page
 
 ---
@@ -93,4 +93,5 @@ Projeto desenvolvido por **Edison Bitencourt de Almeida**
 Cientista de Dados em formação, com foco em análise estratégica e soluções orientadas a negócio.
 
 📬 Em caso de interesse ou dúvidas, sinta-se à vontade para entrar em contato.
+
 
